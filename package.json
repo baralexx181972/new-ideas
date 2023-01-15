@@ -1,0 +1,19 @@
+{
+  "name": "new-ideas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baralexx181972/new-ideas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baralexx181972/new-ideas/issues"
+  },
+  "homepage": "https://github.com/baralexx181972/new-ideas#readme"
+}
